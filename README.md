@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Allen Worrell </h1>
 
-### A passionate developer
-
 - 🔭 I'm currently working on **Full-stack Engineering at Marketeq Digital**
 
 - 🌱 I'm currently learning **Scalable software architecture, API integration, reusable React hooks, data engineering, and AI-powered application development.**
