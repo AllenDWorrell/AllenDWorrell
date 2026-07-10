@@ -1,4 +1,4 @@
-# Hi 👋, I'm Allen Worrell
+<h1 align="center"> Hi 👋, I'm Allen Worrell </h1>
 
 ### A passionate developer
 
