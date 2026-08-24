@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Allen Worrell </h1>
 
-- 🔭 I'm currently working on **Full-stack Engineering at Marketeq Digital**
+- 🔭 I'm currently working on *Ai Software Development at Atrack Solutions**
 
 - 🌱 I'm currently learning **Scalable software architecture, API integration, reusable React hooks, data engineering, and AI-powered application development.**
 
